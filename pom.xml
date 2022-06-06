@@ -99,13 +99,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <name>Tesla release repository</name>
 	      <url>http://35.154.18.179:8081/repository/Tesla-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <name>Tesla snapshot repository </name>
 	      <url>http://35.154.18.179:8081/repository/Tesla-snapshot/</url>
 	    </snapshotRepository>
 	    
