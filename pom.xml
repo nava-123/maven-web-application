@@ -99,14 +99,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Test release repository</name>
-	      <url>http://52.66.235.13:9888/navadevops/repository/Test-release/</url>
+	      <name>Tesla Release Repository</name>
+	      <url>http://35.154.18.179:8081/repository/Tesla-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Test snapshot repository </name>
-	      <url>http://52.66.235.13:9888/navadevops/repository/Test-snapshot/</url>
+	      <name>Tesla Snapshot Repository </name>
+	      <url>http://35.154.18.179:8081/repository/Tesla-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
