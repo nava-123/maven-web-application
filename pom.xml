@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Tesla Release Repository</name>
-	      <url>http://35.154.18.179:8081/repository/Tesla-release/</url>
+	      <url>http://13.126.145.53:8081/repository/Erie-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Tesla Snapshot Repository </name>
-	      <url>http://35.154.18.179:8081/repository/Tesla-snapshot/</url>
+	      <url>http://13.126.145.53:8081/repository/Erie-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
