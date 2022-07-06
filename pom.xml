@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.233.156.111:8081/repository/Erie-Release/</url>
+	      <url>http://13.233.156.111:8081/repository/Erie-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
