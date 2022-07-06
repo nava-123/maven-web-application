@@ -16,7 +16,7 @@ node{
     {
         sh "${mavenhome}/bin/mvn clean deploy"
     }
-    /*
+    
     stage('Deploy artifact into tomcat server')
     {
         sshagent(['18b52eae-0487-4fc7-907b-a443eff7169d'])
@@ -24,5 +24,5 @@ node{
         sh "scp -o StrictHostKeyChecking=no target/maven-web-application.war ec2-user@52.66.18.31:/opt/apache-tomcat-9.0.64/webapps/"
     }
     }
-    */
+    
 }
